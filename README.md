@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ritikarkl
 - 👀 I’m interested in coding.
-- 🌱 I’m currently learning flutter
-- 💞️ I’m looking to collaborate on making apps using flutter 
+- 🌱 I’m currently learning JavaScript .
+- 💞️ I’m looking to collaborate on making apps using Javascript.
 - 📫 How to reach me - contact no - 8249404376
       Mail -ritikarkl.singh@gmail.com
 
