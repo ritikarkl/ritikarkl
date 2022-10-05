@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ritikarkl
 - 👀 I’m interested in coding.
-- 🌱 I’m currently learning JavaScript .
-- 💞️ I’m looking to collaborate on making apps using Javascript.
+- 🌱 I’m currently learning ReactJs .
+- 💞️ I’m looking to collaborate on making apps using ReactJs.
 - 📫 How to reach me - contact no - 8249404376
       Mail -ritikarkl.singh@gmail.com
 
